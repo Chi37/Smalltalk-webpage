@@ -1,0 +1,47 @@
+
+#page{
+	margin:20px;
+	
+}
+
+body landing{
+	
+}
+
+
+
+.image{
+	background-image: url("customLogo.gif.png");
+	margin: 20px;
+	padding:10px;
+}
+
+.nav{
+
+	background-color: rgb(50, 91, 97);
+	overflow: hidden;
+	margin: 20px;
+	padding:10px;
+}
+
+.nav a{
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+}
+
+#content{
+	margin: 40px 0;
+	padding: 30px;
+	font: Georgia;
+}
+
+#footer{
+	border-bottom: 1px #ccc solid;
+	margin-bottom: 10px;
+}
+
+.background{
+	
+	
+}
