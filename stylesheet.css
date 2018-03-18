@@ -31,11 +31,13 @@ h1{
 .nav a{
 	color: white;
 	text-align: center;
-	padding: 14px 16px;
+	padding: 14px 15px;
+	margin: 30px;
+
 }
 
 #content{
-	margin: 40px 0;
+	margin: 40px;
 	padding: 30px;
 	font: Georgia;
 }
