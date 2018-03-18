@@ -1,6 +1,6 @@
 
 #page{
-	margin:20px;
+	margin: 0 auto;
 	
 }
 
@@ -14,6 +14,10 @@ body landing{
 	background-image: url("customLogo.gif.png");
 	margin: 20px;
 	padding:10px;
+}
+
+h1{
+	color: #ffffff;
 }
 
 .nav{
@@ -38,10 +42,17 @@ body landing{
 
 #footer{
 	border-bottom: 1px #ccc solid;
-	margin-bottom: 10px;
+	margin-bottom: 1px;
+}
+
+#footer p{
+
+	text-align: right;
+	text-transform: uppercase;
+	font-size: 80%;
 }
 
 .background{
-	
+	background-image: url(smalltalk.jpg)
 	
 }
